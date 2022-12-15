@@ -1,1 +1,1 @@
-# SceneUtils
+This script contains two static methods for loading and unloading scenes by their name. This can be useful for developers who want to easily switch between different scenes in their game without having to manually specify the scene's name each time.
